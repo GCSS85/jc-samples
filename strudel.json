@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/GCSS85/jc-samples/master/",
+  "_base": "https://raw.githubusercontent.com/GCSS85/jc-samples/main/",
   "kick":["kicks/kick1.mp3","kicks/kick2.mp3"],
   "snare":["snares/snare1.mp3","snares/snare2.mp3"],
   "hat":["hats/hat1.mp3","hats/hat2.mp3"]
