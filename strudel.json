@@ -5,5 +5,5 @@
   "hat":["hats/hat1.mp3","hats/hat2.mp3"],
   "at_bd":["kicks/at-bd.wav"],
   "at_sd":["snares/at-sd.wav"],
-  "at_vo":["voices/at_bmo1.mp3"]
+  "at_vo":["voices/at_bmo1.wav"]
 }
