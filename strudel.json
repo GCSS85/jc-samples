@@ -3,6 +3,7 @@
   "kick":["kicks/kick1.mp3","kicks/kick2.mp3"],
   "snare":["snares/snare1.mp3","snares/snare2.mp3"],
   "hat":["hats/hat1.mp3","hats/hat2.mp3"],
+  "guitar":["guitar/breakriff.mp3"],
   "at_bd":["kicks/at-bd.wav"],
   "at_sd":["snares/at-sd.wav"],
   "at_voc":["voices/at_bmo1.wav"],
