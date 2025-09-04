@@ -8,5 +8,8 @@
   "at_sd":["snares/at-sd.wav"],
   "at_voc":["voices/at_bmo1.wav"],
   "mm_sd":["snares/mm_sd.mp3"],
-  "mm_hh":["hats/mm_hh.mp3"]
+  "mm_hh":["hats/mm_hh.mp3"],
+  "laugh":["misc/laugh1,mp3"],
+  "bubble":["misc/sbubble1.mp3"],
+  "clap_aud":["misc/audclap1.mp3"]
 }
