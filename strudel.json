@@ -6,7 +6,7 @@
   "guitar":["guitar/breakriff.mp3"],
   "at_bd":["kicks/at-bd.wav"],
   "at_sd":["snares/at-sd.wav"],
-  "at_voc":["voices/at_bmo1.wav"],
+  "at_voc":["voices/at_bmo1.wav","voices/uwu.mp3"],
   "mm_sd":["snares/mm_sd.mp3"],
   "mm_hh":["hats/mm_hh.mp3"],
   "laugh_au":["misc/laugh1.mp3"],
